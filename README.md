@@ -4,7 +4,7 @@ This repository accompanies the research paper:
 
 **HueManity: Probing Fine-Grained Visual Perception in MLLMs (arxiv)**
 
-*Rynaa Grover, Jayant Tamarapalli, Sahiti Yerramilli, and Nilay Pande*.
+Rynaa Grover*, Jayant Tamarapalli*, Sahiti Yerramilli*, and Nilay Pande*, *equal contributions.
 
 ![](assets/huemanity-teaser.png)
 
