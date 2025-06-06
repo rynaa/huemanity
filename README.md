@@ -2,9 +2,7 @@
 
 This repository accompanies the research paper:
 
-Dataset available in [Huggingface HueManity](https://huggingface.co/datasets/Jayant-Sravan/HueManity)
-
-**HueManity: Probing Fine-Grained Visual Perception in MLLMs (arxiv)**
+**HueManity: Probing Fine-Grained Visual Perception in MLLMs [[arxiv](https://www.arxiv.org/abs/2506.03194)][[huggingface](https://huggingface.co/datasets/Jayant-Sravan/HueManity)]**
 
 Rynaa Grover*, Jayant Tamarapalli*, Sahiti Yerramilli*, and Nilay Pande*, *equal contributions.
 
@@ -35,7 +33,15 @@ python main.py
 If you find our work useful, please cite the following paper:
 
 ```bibtex
-TBD
+@misc{grover2025huemanityprobingfinegrainedvisual,
+      title={HueManity: Probing Fine-Grained Visual Perception in MLLMs}, 
+      author={Rynaa Grover and Jayant Sravan Tamarapalli and Sahiti Yerramilli and Nilay Pande},
+      year={2025},
+      eprint={2506.03194},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.03194}, 
+}
 ```
 
 ## License
